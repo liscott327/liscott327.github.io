@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-16T16:05:20.000Z</updated>
+  <updated>2016-07-27T08:44:33.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一週心得</title>
+    <link href="http://yoursite.com/2016/07/27/%E7%AC%AC%E4%B8%80%E9%80%B1%E5%BF%83%E5%BE%97/"/>
+    <id>http://yoursite.com/2016/07/27/第一週心得/</id>
+    <published>2016-07-27T08:41:26.000Z</published>
+    <updated>2016-07-27T08:44:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<!--我是分隔線-->
+<p>第一次與大家認識，也是第一次當小助教，雖然還沒開始，但我相信能夠盡我所能</p>
+<p>的協助別人。第一次上課的進度真的很緊湊，時時刻刻要非常認真仔細聆聽，稍微</p>
+<p>一不注意就會少一個步驟，不過說真的還是要多加緊練習，或許邏輯判斷不是我的</p>
+<p>強項，但我相信熟、細心還有實作中得到的經驗會是我最大的武器，能夠與大家協</p>
+<p>助和分享其中經驗。</p>
+<!--斷行ENTER-->
+<!--我是分隔線-->
+<hr>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;!--我是分隔線--&gt;
+&lt;p&gt;第一次與大家認識，也是第一次當小助教，雖然還沒開始，但我相信能夠盡我所能&lt;/p&gt;
+&lt;p&gt;的協助別人。第一次上課的進度真的很緊湊，時時刻刻要非常認真仔細聆聽，稍微&lt;/p&gt;
+&lt;p&gt;一不注意就會少一個步驟，不過說真的還是要多加緊練習，或許邏輯判斷不是我的
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
