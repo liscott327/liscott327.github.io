@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liscott327.github.io/"/>
-  <updated>2016-07-29T02:18:56.000Z</updated>
+  <updated>2016-07-29T04:28:49.000Z</updated>
   <id>http://liscott327.github.io/</id>
   
   <author>
@@ -14,6 +14,68 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>關於</title>
+    <link href="http://liscott327.github.io/2016/07/29/%E9%97%9C%E6%96%BC/"/>
+    <id>http://liscott327.github.io/2016/07/29/關於/</id>
+    <published>2016-07-29T04:24:50.000Z</published>
+    <updated>2016-07-29T04:28:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>##自我介紹</p>
+<div align="center"><br> <img src="https://goo.gl/OTEM1M" height="50%" width="50%"><br><br> 李奕諴<br><br> 來自 高雄市<br><br> 正修科技大學 資訊工程系<br><br></div>
+
+
+
+<table>
+<thead>
+<tr>
+<th>About Me</th>
+<th><a href="http://goo.gl/QCKEUc" target="_blank" rel="external">我的FACEBOOK</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>興趣與專長</td>
+<td>喜歡3C科技<br>    戶外活動到處旅行交朋友<br>品嚐各地美食<br></td>
+</tr>
+<tr>
+<td>參加過的社團</td>
+<td>吉他社</td>
+</tr>
+<tr>
+<td>喜歡的課</td>
+<td>程式設計<br>    英文</td>
+</tr>
+<tr>
+<td>喜歡的國家</td>
+<td>台灣、日本、英國、美國</td>
+</tr>
+<tr>
+<td>想嘗試的事情</td>
+<td>存到一筆錢，體驗各國文化，環遊世界</td>
+</tr>
+<tr>
+<td>專長能力</td>
+<td>C、swift、HTML</td>
+</tr>
+<tr>
+<td>想和大家說的話</td>
+<td>很高興能與大家一起學習切磋，也請大家多多指教，<br>有任何想法歡迎提出來多多討論。</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##自我介紹&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt; &lt;img src=&quot;https://goo.gl/OTEM1M&quot; height=&quot;50%&quot; width=&quot;50%&quot;&gt;&lt;br&gt;&lt;br&gt; 李奕諴&lt;br&gt;&lt;br&gt; 來自 高雄市&lt;br&gt;&lt;br&gt; 正修科技大學 
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo常用指令參考文件</title>
