@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liscott327.github.io/"/>
-  <updated>2016-07-29T04:33:43.000Z</updated>
+  <updated>2016-07-29T04:36:18.000Z</updated>
   <id>http://liscott327.github.io/</id>
   
   <author>
@@ -20,9 +20,11 @@
     <link href="http://liscott327.github.io/2016/07/29/%E9%97%9C%E6%96%BC/"/>
     <id>http://liscott327.github.io/2016/07/29/關於/</id>
     <published>2016-07-29T04:24:50.000Z</published>
-    <updated>2016-07-29T04:33:43.000Z</updated>
+    <updated>2016-07-29T04:36:18.000Z</updated>
     
-    <content type="html"><![CDATA[<table>
+    <content type="html"><![CDATA[<div align="center"><br> <img src="https://goo.gl/OTEM1M" height="50%" width="50%"><br><br></div>
+
+<table>
 <thead>
 <tr>
 <th>About Me</th>
@@ -76,14 +78,13 @@
     
     <summary type="html">
     
-      &lt;table&gt;
+      &lt;div align=&quot;center&quot;&gt;&lt;br&gt; &lt;img src=&quot;https://goo.gl/OTEM1M&quot; height=&quot;50%&quot; width=&quot;50%&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;About Me&lt;/th&gt;
-&lt;th&gt;&lt;a href=&quot;http://goo.gl/QCKEUc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;我的FACEBOOK&lt;/a&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
+&lt;t
     
     </summary>
     
