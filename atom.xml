@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liscott327.github.io/"/>
-  <updated>2016-07-29T04:28:49.000Z</updated>
+  <updated>2016-07-29T04:33:47.000Z</updated>
   <id>http://liscott327.github.io/</id>
   
   <author>
@@ -17,17 +17,26 @@
   
   <entry>
     <title>關於</title>
+    <link href="http://liscott327.github.io/2016/07/29/%E9%97%9C%E6%96%BC-1/"/>
+    <id>http://liscott327.github.io/2016/07/29/關於-1/</id>
+    <published>2016-07-29T04:33:47.000Z</published>
+    <updated>2016-07-29T04:33:47.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>關於</title>
     <link href="http://liscott327.github.io/2016/07/29/%E9%97%9C%E6%96%BC/"/>
     <id>http://liscott327.github.io/2016/07/29/關於/</id>
     <published>2016-07-29T04:24:50.000Z</published>
-    <updated>2016-07-29T04:28:49.000Z</updated>
+    <updated>2016-07-29T04:33:43.000Z</updated>
     
-    <content type="html"><![CDATA[<p>##自我介紹</p>
-<div align="center"><br> <img src="https://goo.gl/OTEM1M" height="50%" width="50%"><br><br> 李奕諴<br><br> 來自 高雄市<br><br> 正修科技大學 資訊工程系<br><br></div>
-
-
-
-<table>
+    <content type="html"><![CDATA[<table>
 <thead>
 <tr>
 <th>About Me</th>
@@ -35,6 +44,18 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>姓名</td>
+<td>李奕諴</td>
+</tr>
+<tr>
+<td>來自</td>
+<td>高雄</td>
+</tr>
+<tr>
+<td>目前</td>
+<td>正修科技大學資訊工程系</td>
+</tr>
 <tr>
 <td>興趣與專長</td>
 <td>喜歡3C科技<br>    戶外活動到處旅行交朋友<br>品嚐各地美食<br></td>
@@ -69,8 +90,14 @@
     
     <summary type="html">
     
-      &lt;p&gt;##自我介紹&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;&lt;br&gt; &lt;img src=&quot;https://goo.gl/OTEM1M&quot; height=&quot;50%&quot; width=&quot;50%&quot;&gt;&lt;br&gt;&lt;br&gt; 李奕諴&lt;br&gt;&lt;br&gt; 來自 高雄市&lt;br&gt;&lt;br&gt; 正修科技大學 
+      &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;About Me&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://goo.gl/QCKEUc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;我的FACEBOOK&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
     
     </summary>
     
